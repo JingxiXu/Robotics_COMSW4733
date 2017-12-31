@@ -1,0 +1,7 @@
+calculated_angle_offset =  0.10471975803375244
+calculated_distance_offset = 0.77673682515970777
+homography_transform_matrix = 
+[[  2.75129002e+00   1.75082092e+00  -3.04392723e+02]
+ [ -5.24680465e-01   1.12431528e+01  -5.90265523e+02]
+ [ -3.01666667e-03   1.59796254e-02   1.00000000e+00]]
+distance_to_camera_from_homography = 22.505883596471483
